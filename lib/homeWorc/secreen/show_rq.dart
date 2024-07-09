@@ -16,7 +16,12 @@ class _ShowQRState extends State<ShowQR> {
       ),
     );
 
-    //jhdjhydyeuyd
+    //jhdjhhgf
+    //
+    //
+    //
+    //
+    // ydyeuyd
 
   }
 }
